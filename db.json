@@ -21,27 +21,27 @@
                 "views": "23k",
                 "description": "Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents except Antarctica",
                 "likes": 300,
-                "thumb": "https://codersera.com/blog/wp-content/uploads/2019/06/What-is-an-API.png",
+                "thumb": "http://codersera.com/blog/wp-content/uploads/2019/06/What-is-an-API.png",
                 "dislikes": 10
             },
             {
                 "id": 2,
-                "url": "https://www.youtube.com/watch?v=7YcW25PHnAA",
+                "url": "http://www.youtube.com/watch?v=7YcW25PHnAA",
                 "title": "Wild Life In Africa",
                 "views": "36k",
                 "description": "Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents except Antarctica",
                 "likes": 600,
-                "thumb": "https://article.images.consumerreports.org/f_auto/prod/content/dam/CRO%20Images%202018/Cars/December/CR-Cars-InlineHero-American-2018-Chevrolet-Corvette-GS-12-18",
+                "thumb": "http://article.images.consumerreports.org/f_auto/prod/content/dam/CRO%20Images%202018/Cars/December/CR-Cars-InlineHero-American-2018-Chevrolet-Corvette-GS-12-18",
                 "dislikes": 13
             },
             {
                 "id": 3,
-                "url": "https://www.youtube.com/watch?v=7YcW25PHnAA",
+                "url": "http://www.youtube.com/watch?v=7YcW25PHnAA",
                 "title": "The First Video Of My Blog",
                 "views": "80k",
                 "description": "Lizards are a widespread group of squamate reptiles, with over 6,000 species, ranging across all continents except Antarctica",
                 "likes": 396,
-                "thumb": "https://www.marketplace.org/wp-content/uploads/2020/01/Netflix-Neon-Genesis-Evangelion.jpg?w=600",
+                "thumb": "http://www.marketplace.org/wp-content/uploads/2020/01/Netflix-Neon-Genesis-Evangelion.jpg?w=600",
                 "dislikes": 2
             }
         ]
